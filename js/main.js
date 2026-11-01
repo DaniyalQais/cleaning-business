@@ -78,7 +78,7 @@
         }
 
         status
-            .text('This is a design demo, so your request was not sent. On the live site this form will deliver your details straight to Summers House Care.')
+            .text('This is a design demo, so your request was not sent. On the live site this form will deliver your details straight to Cleaning Business.')
             .removeClass('is-error')
             .addClass('is-visible');
     });
